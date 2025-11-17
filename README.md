@@ -1,1 +1,3 @@
  A dynamic and inclusive educational environment where students can receive real-time assistance, engage in collaborative projects, and access personalised learning resources, all within a single, cohesive platform.<img width="687" height="309" alt="image" src="https://github.com/user-attachments/assets/df9e2d8f-43e8-44cc-8485-62b386ae2339" />
+<img width="689" height="338" alt="image" src="https://github.com/user-attachments/assets/b941f9ba-9ebb-4fd8-a720-db6214b0c029" />
+<img width="582" height="251" alt="image" src="https://github.com/user-attachments/assets/5c1e0c37-7554-412d-9359-33e4532d959d" />
